@@ -1,0 +1,82 @@
+body {
+	margin-bottom: 0px;
+	font-family: Verdana;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #525252;
+}
+table.main {
+	width: 100%;
+	height: 100%;
+	border-collapse: collapse;
+	background: url(background.png);
+	/*table-layout: fixed;*/
+}
+.text1 {
+color: #ffffff;
+font-family: Fangtasia;
+font-size: 50px;
+}
+.img1 {
+text-align:center;
+}
+ul {
+  width: 660px;
+  margin: 0 auto;
+  padding-left: 0;
+  list-style: none;
+  overflow: hidden;
+  /*text-align:center;*/
+}
+li {
+  float: left;
+  margin:20px;
+  /*width: 20%;*/
+}
+a {
+  text-decoration: none;
+  /*text-align: center;*/
+  display: block;
+  color: #ffffff;
+  /*padding: 0.5em 0;*/
+  font-size: 13pt;
+  /*font-weight: bold;*/
+  font-style: italic;
+  /*transition: 0.5s ease-in-out;*/
+  font-family: Georgia Regular;
+}
+a:hover {
+  color: #f70211;
+}
+.button1 {
+background: #cc8400;
+border-style: hidden; /* Параметры рамки */
+border-radius: 30px;
+width: 145px; /* Ширина кнопки */
+height: 35px; /* Высота */
+}
+
+.button2 {
+background: #cc8400;
+border-style: hidden; /* Параметры рамки */
+border-radius: 0px;
+width: 30px; /* Ширина кнопки */
+height: 35px; /* Высота */
+}
+.text2 {
+color: #ffffff;
+font-family: Helvetica Bold;
+font-size: 12px;
+font-weight: bold;
+}
+.text3 {
+line-height: 2;
+color: #ffffff;
+font-family: Georgia Regular;
+font-size: 12px;
+font-style: italic;
+}
