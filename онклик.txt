@@ -1,0 +1,1 @@
+onclick="location.href = 'index2.html'"
