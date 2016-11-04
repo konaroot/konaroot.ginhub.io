@@ -8,7 +8,8 @@ body {
 	font-variant: normal;
 	text-transform: none;
 	color: #525252;
-	background: url(background.png);
+	background: url(background1.png);
+	background-size: cover;
 }
 .button
 {
@@ -103,7 +104,7 @@ font-size: 12px;
 font-weight: bold;
 }
 .text3 {
-line-height: 2;
+line-height: 1.5;
 color: #ffffff;
 font-family: Georgia Regular;
 font-size: 13px;
