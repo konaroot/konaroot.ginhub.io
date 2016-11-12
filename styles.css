@@ -110,3 +110,40 @@ font-family: Georgia Regular;
 font-size: 13px;
 font-style: italic;
 }
+
+.button1 {
+width: 143px;
+height: 30px;
+background-color: black;
+background-image: linear-gradient(to top, #0c0c0c 0%, #282828 100%);
+border: 1px solid #0e0e0e;
+box-shadow: 0.5px 0.9px 1px rgba(4, 4, 4, 0.3), inset 0.7px 0.8px 1px rgba(255, 255, 255, 0.43);
+}
+
+.id2{
+	font-family: Georgia Regular;
+	font-size: 12pt;
+	color: #ffffff;
+	font-style: italic;
+ 	padding-top:30px;
+	}
+	.id3{
+		padding-top:30px;
+	}
+	
+	.id4{
+		padding-top:200px;
+		width:25%;
+	}
+	.id5{
+		padding-top:200px;
+	}
+	
+	.tdfot
+	{
+		
+		width:210px;}
+	.backgf
+	{background: url(backgroundfooter.png);}
+	
+	
